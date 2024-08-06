@@ -11,7 +11,7 @@
 	<groupId>com.neoquant</groupId>
 	<artifactId>product-crud-with-angular</artifactId>
 	
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>product</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
